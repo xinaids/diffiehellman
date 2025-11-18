@@ -6,9 +6,9 @@ estabelecer uma chave secreta compartilhada através de um canal inseguro.
 
 ## 🚀 Como Executar
 1. Certifique-se de ter o Python 3 instalado.
-2. Salve este arquivo como diffie_hellman_gui.py
+2. Salve este arquivo como dh.py
 3. Execute:
-   python diffie_hellman_gui.py
+   python dh.py
 
 ## 📸 Exemplo de Uso
 - Parâmetros públicos: p = 23, g = 5
